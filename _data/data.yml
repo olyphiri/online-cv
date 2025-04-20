@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: Peter Olympus Phiri
   tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: peterolympusphiri@icloud.com / peterphiri.accountsdep@dndelectrical.co.zw
   phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  timezone: America/Cancun # Enter your timezone, e.g., Africa/Harare/Zimbabwe
+  citizenship:Zimbabwean
+  website: https://olyphiri.github.io/online-cv/
+  linkedin: Peter Olympus Phiri
+  xing: Peter Olympus Phiri
+  github: olyphiri
+  telegram: # 0784140899
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  twitter: '@olyphiri'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,7 +40,7 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
+    - idiom: Shona
       level: Professional
 
     - idiom: Spanish
@@ -49,7 +49,7 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Coding
       link:
 
 
@@ -64,52 +64,45 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Peter Phiri is an accomplished IT professional with a diverse skill set in graphic design, UI/UX development, and website design.
+    Holding a degree in Business Management and Information Technology, he combines technical expertise with a solid understanding of business principles.
+    With 2.5 years of experience in the microfinance sector, Peter has worked as a loan officer and an accounts clerk at David and Donald Electricals,
+    where he honed his analytical and customer service skills.
+    Currently seeking new opportunities, he is eager to leverage his IT skills and business knowledge to contribute effectively in a dynamic work environment.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor of Business Management and Information Technology
+    university: Catholic University of Zimbabwe
+    time: 2019 - 2023
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Business Management: Strategic planning, organizational behavior, marketing, finance, and human resources.
+      Information Technology: Programming, database management, networking, cybersecurity, and data analytics.
+      
+      
+      
+        - Bullet point Digital Marketing Specialist
+        - Bullet point Systems Analyst
+  - degree: Certificate in Computer Studies Hexco
+    university: HEXCO
+    time: 2015 - 2016
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+     
+        - Bullet point Programming
+        - Bullet point Networking
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Loans Officer, Branch Manager
+    time: 2021-2024
+    company: KCI Management Consultant
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
+      
+As a Branch Manager, I oversee daily branch operations, manage staff, set sales targets, and drive business growth.
+I maintain customer relationships, monitor branch performance, and implement business strategies.
+My IT and business management skills enable me to streamline processes, analyze data, and make informed decisions.
+      
       aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
